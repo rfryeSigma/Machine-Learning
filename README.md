@@ -81,11 +81,12 @@ More papers and some code:
     Optimal quantum reservoir computing for the NISQ era
 ```
 
-[arxiv](https://arxiv.org/pdf/2205.10107.pdf), 5/2022, 6 pages
+(https://arxiv.org/pdf/2205.10107.pdf), 5/2022, 6 pages
 
 They find optimal gates for QRC better than Ising.
 I wonder whether circuits decayed after a dozen circuit steps.
 Compare gate complexity by majorization.
+
 [Source code](https://github.com/laiadc/Optimal_QRC)
 
 #### Burgess
@@ -94,7 +95,7 @@ Compare gate complexity by majorization.
     Quantum Reservoir Computing Implementations for Classical and Quantum Problems
 ```
 
-[arxiv](https://arxiv.org/pdf/2211.08567.pdf)
+(https://arxiv.org/pdf/2211.08567.pdf)
 
 They use a quantum physical reservoir ahead of a RNN.
 
@@ -104,7 +105,7 @@ They use a quantum physical reservoir ahead of a RNN.
     Quantum reservoir computing: a reservoir approach toward quantum machine learning on near-term quantum devices
 ```
 
-[arxiv](https://arxiv.org/pdf/2011.04890.pdf), 11/2020, 13 pages
+(https://arxiv.org/pdf/2011.04890.pdf), 11/2020, 13 pages
 
 More proof of concept of physical reservoir than implementation.
 
@@ -114,7 +115,7 @@ More proof of concept of physical reservoir than implementation.
     Temporal information processing on noisy quantum computers
 ```
 
-[arxiv](https://arxiv.org/pdf/2001.09498.pdf), 7/2020, 22 pages
+(https://arxiv.org/pdf/2001.09498.pdf), 7/2020, 22 pages
 
 Proof of principal on IBM 5 qubit machines.
 
@@ -144,7 +145,7 @@ Better QRC gates and more shots needed for better stats.
     Physical reservoir computing using finitely-sampled quantum systems
 ```
 
-[arxiv](https://arxiv.org/pdf/2110.13849.pdf), 11/2021, 38 pages
+(https://arxiv.org/pdf/2110.13849.pdf), 11/2021, 38 pages
 
 Recommends use QC as reservoir, or use reservoir to improve circuit readout.
 
