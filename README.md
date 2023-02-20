@@ -9,7 +9,7 @@ Look in my [Learning Exercises)](https://github.com/rfryeSigma/Learning_Excercis
     Copyright © 2021 Dr. Frank Zickert, pyqml.com
 ```
 
-## Other Quantum ML Books
+## 📚 Other Quantum ML Books
 
 When I find the time I will have much to say about these books:
 
@@ -69,25 +69,24 @@ I believe that noisy random quantum sub-circuits can be trained to recognize inp
 
 I am experimenting with this idea, but nothing to show yet. Here are some links on the subject:
 - [Wiki page Reservoir_computing](https://en.wikipedia.org/wiki/Reservoir_computing)
-- [Nature article on external reservoir](https://www.nature.com/articles/s41598-022-05061-w)
-- [arxiv: Optimal quantum reservoir computing for the NISQ era](https://arxiv.org/abs/2205.10107)
-- [arxiv: Reservoir Computing via Quantum Recurrent Neural Networks](https://arxiv.org/abs/2211.02612)
+- [arxiv: Reservoir Computing via Quantum Recurrent Neural Networks](https://arxiv.org/pdf/2211.02612.pdf)
 
-More papers and some code:
+✍️ More papers and some code:
 
 #### Domingo
 ```
     L. Domingo, G. Carlo, and F. Borondo
     Optimal quantum reservoir computing for the NISQ era
 ```
+https://arxiv.org/pdf/2205.10107.pdf, 5/2022, 6 pages
 
-(https://arxiv.org/pdf/2205.10107.pdf), 5/2022, 6 pages
+![image](https://user-images.githubusercontent.com/40242095/220181691-b2aa3573-e27d-41a8-b767-3d37df2c9088.png)
 
 They find optimal gates for QRC better than Ising.
 I wonder whether circuits decayed after a dozen circuit steps.
-Compare gate complexity by majorization.
+They compare gate complexity by majorization.
 
-[Source code](https://github.com/laiadc/Optimal_QRC)
+[Their source code](https://github.com/laiadc/Optimal_QRC)
 
 #### Burgess
 ```
@@ -95,7 +94,7 @@ Compare gate complexity by majorization.
     Quantum Reservoir Computing Implementations for Classical and Quantum Problems
 ```
 
-(https://arxiv.org/pdf/2211.08567.pdf)
+https://arxiv.org/pdf/2211.08567.pdf
 
 They use a quantum physical reservoir ahead of a RNN.
 
@@ -105,7 +104,7 @@ They use a quantum physical reservoir ahead of a RNN.
     Quantum reservoir computing: a reservoir approach toward quantum machine learning on near-term quantum devices
 ```
 
-(https://arxiv.org/pdf/2011.04890.pdf), 11/2020, 13 pages
+https://arxiv.org/pdf/2011.04890.pdf, 11/2020, 13 pages
 
 More proof of concept of physical reservoir than implementation.
 
@@ -115,7 +114,7 @@ More proof of concept of physical reservoir than implementation.
     Temporal information processing on noisy quantum computers
 ```
 
-(https://arxiv.org/pdf/2001.09498.pdf), 7/2020, 22 pages
+https://arxiv.org/pdf/2001.09498.pdf, 7/2020, 22 pages
 
 Proof of principal on IBM 5 qubit machines.
 
@@ -145,12 +144,10 @@ Better QRC gates and more shots needed for better stats.
     Physical reservoir computing using finitely-sampled quantum systems
 ```
 
-(https://arxiv.org/pdf/2110.13849.pdf), 11/2021, 38 pages
+https://arxiv.org/pdf/2110.13849.pdf, 11/2021, 38 pages
 
 Recommends use QC as reservoir, or use reservoir to improve circuit readout.
 
 In these videos, Angelatos uses external oscillators in the fridge as reservoir for speed.
-
-[A Reservoir Computing Approach to Quantum State Measurement](https://www.youtube.com/watch?v=HHXMkjTAuqg&t=53s)
-
-[Kerr Network Reservoir Computing for Quantum State Measurement](https://www.youtube.com/watch?v=WKFda_1KcMw)
+- [A Reservoir Computing Approach to Quantum State Measurement](https://www.youtube.com/watch?v=HHXMkjTAuqg&t=53s)
+- [Kerr Network Reservoir Computing for Quantum State Measurement](https://www.youtube.com/watch?v=WKFda_1KcMw)
