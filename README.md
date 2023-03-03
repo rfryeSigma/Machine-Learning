@@ -19,6 +19,7 @@ When I find the time I will have much to say about these books:
     By Maria Schuld and Francesco Petruccione
     Springer (2nd edition 2021), 312 pages
 ```
+Most up-to-date, comprehensive treatment.
 
 #### Peter Wittek
 ```
@@ -27,6 +28,26 @@ When I find the time I will have much to say about these books:
     By Peter Wittek
     Elsevier AP, Academic Press (2014), 163 pages
 ```
+Often referenced survey of early algorithms.
+First half gives clear explanations of classical machine learning; second half describes quantum implementations.
+
+#### Santanu Ganguly
+```
+    Quantum Machine Learning: An Applied Approach
+    The Theory and Application of Quantum Machine Learning in Science and Industry
+    By Santanu Ganguly
+    Apress (2021)
+````
+Can be used as a companion to his 268 lecture course at Udemy
+[Srinjoy Ganguly, Quantum Computing with Qiskit Ultimate Masterclass](https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass)
+
+#### Davide Pastorello
+```
+    Concise Guide to Quantum Machine Learning
+    By Davide Pastorello
+    Springer (2022), 138 pages
+````
+Clear outlines of basic quantum requirements and methods.
 
 #### Kristof Schütt
 ```
@@ -34,21 +55,7 @@ When I find the time I will have much to say about these books:
     Edited by Kristof T. Schütt, Stefan Chmiela, O. Anatole von Lilienfeld, Alexandre Tkatchenko, Koji Tsuda, Klaus-Robert Müller
     Springer Lecture Notes in Physics (2020), 467 pages
 ````
-
-#### Santanu Ganuly
-```
-    Quantum Machine Learning: An Applied Approach
-    The Theory and Application of Quantum Machine Learning in Science and Industry
-    By Santanu Ganguly
-    Apress (2021)
-````
-
-#### Davide Pastorello
-```
-    Quantum Chemistry in the Age of Machine Learning
-    By Davide Pastorello
-    Springer (2022), 138 pages
-````
+Thorough explanation of applications to physics and chemistry.
 
 #### Pavlo O. Dral
 ```
@@ -56,6 +63,8 @@ When I find the time I will have much to say about these books:
     By Pavlo O. Dral
     Elsevier (2023), 682 pages
 ````
+Thorough explanation of applications to chemistry with examination of case studies.
+
 
 #### Siddhartha Bhattacharyya
 ```
@@ -63,6 +72,7 @@ When I find the time I will have much to say about these books:
     Edited by Siddhartha Bhattacharyya, Indrajit Pan, Ashish Mani, Sourav De, Elizabeth Behrman, Susanta Chakraborti
     Walter de Gruyter (2020), 118 pages
 ````
+A collection of 5 papers.
 
 ## Quantum Reservoir Computing
 I believe that noisy random quantum sub-circuits can be trained to recognize input and output patterns for quantum circuits.
