@@ -41,6 +41,9 @@ First half gives clear explanations of classical machine learning; second half d
 Can be used as a companion to his 268 lecture course at Udemy
 [Srinjoy Ganguly, Quantum Computing with Qiskit Ultimate Masterclass](https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass)
 
+Code for the book is on GitHub
+(https://github.com/Apress/quantum-machine-learning)
+
 #### Davide Pastorello
 ```
     Concise Guide to Quantum Machine Learning
